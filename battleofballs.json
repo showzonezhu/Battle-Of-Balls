@@ -1,7 +1,10 @@
 {
     "len": "1",
     "name":"Battle of Balls",
-    "Check-in":"344,175",
+    "growing":{
+        "Check-in":"344,175",
+        "announcement":"欢迎使用,有问题进群反馈",
+    }
     "V": {
         "L1": {
             "lx": "0",
