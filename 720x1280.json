@@ -24,7 +24,8 @@
         "麦克风":{
             "ar": "525, 17, 645, 150",
             "fc": "FFFFFF",
-            "cr": "32|1|FFFFFF,14|-1|FFFFFF,35|19|FFFFFF,35|1|FFFFFF,49|0|FFFFFF"
+            "cr": "32|1|FFFFFF,14|-1|FFFFFF,35|19|FFFFFF,35|1|FFFFFF,49|0|FFFFFF",
+            "s": "1.0"
         },
         "加号夜间":{
             "ar": "638,1209,677,1248",
