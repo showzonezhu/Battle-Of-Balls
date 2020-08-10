@@ -7,7 +7,17 @@
         "update":{
             "version": "20.08.10",
             "msg": "当前版本已停用,请在接下来的网页中及时更新",
-            "type":"0",
+            "type":"2",
+            "announcement": "当前版本正常"
+        }
+    },
+    "statue": {
+        "name": "雕像大作战",
+        "announcement": "欢迎使用全能球球养号助手,有问题进群反馈",
+        "update":{
+            "version": "20.08.10",
+            "msg": "当前版本已停用,请在接下来的网页中及时更新",
+            "type":"2",
             "announcement": "当前版本正常"
         }
     },
