@@ -31,6 +31,16 @@
             "announcement": "当前版本正常"
         }
     },
+    "dainchi": {
+        "name": "白嫖电池",
+        "announcement": "欢迎使用卡奥斯自动助手,有问题进群反馈",
+        "update":{
+            "version": "20.08.16",
+            "msg": "当前版本不是最新版本,请在接下来的网页中及时更新,旧版本没问题可以不更新",
+            "type":"2",
+            "time": "5000"
+        }
+    },
     "quanneng": {
         "version": "20.05.06",
         "update":{
